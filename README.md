@@ -93,7 +93,7 @@
 </div>
 
 <div class="hero-section" id="about">
-    <img src="C:\Users\hp\Desktop\f49ca49c-e3ef-4a53-81fe-8bd223c721c9.jpg" alt="Profile Picture">
+    <img src="https://github.com/Hafsa-Irfan208/Portfolio-HafsaIrfan/blob/main/f49ca49c-e3ef-4a53-81fe-8bd223c721c9.jpg?raw=true" alt="Profile Picture">
     <h1>Welcome! I'm Hafsa Irfan</h1>
     <p>I'm a dedicated Computer Science student with a passion for technology and innovation. My journey in the tech world started when I was young, fascinated by how software could transform lives. Since then, I've embarked on a path of continuous learning, from coding simple programs to developing complex software solutions. Welcome to my portfolio where I showcase my projects, skills, and the milestones of my journey in tech.</p>
 </div>
@@ -141,7 +141,11 @@
 </div>
 
 <div class="footer" id="contact">
-    <p>Let's connect! Reach out to me on <a href="mailto:f219072@cfd.nu.edu.pk">f219072@cfd.nu.edu.pk</a></p>
+    <p>Let's connect!</p>
+    <a href="mailto:f219072@cfd.nu.edu.pk" style="margin-right: 10px;">Send Email</a>
+    <a href="https://instagram.com/hafsa_irfan208" target="_blank" style="display: inline-block;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png" alt="Instagram Logo" style="height: 24px; width: 24px;">
+    </a>
 </div>
 
 </body>
